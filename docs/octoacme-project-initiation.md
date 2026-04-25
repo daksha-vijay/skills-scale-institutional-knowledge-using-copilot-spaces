@@ -4,7 +4,7 @@
 Define the initial steps to validate and authorize work, align stakeholders, and create a lightweight plan.
 
 ## When to use
-Whenever a new project idea or feature proposal is ready to be explored.
+Whenever a new project idea or feature proposal is ready to be explore.
 
 ## Goals
 - Confirm business need and measurable outcome
